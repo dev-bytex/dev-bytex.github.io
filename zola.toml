@@ -1,0 +1,36 @@
+# The URL the site will be built for
+base_url = "https://devbytex.dev"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+theme = "apollo"
+
+taxonomies = [{ name = "tags" }]
+
+[markdown]
+#highlighting = true
+
+#[markdown.highlighting]
+[[extra.socials]]
+icon = "github"
+name = "GitHub"
+url = "https://github.com/dev-bytex/"
+
+
+twitter = "devbytex"
+github = "SmartCoder05"
+
+[[extra.menu]]
+name = "Posts"
+url = "/posts"
+weight = 1
+
+[[extra.menu]]
+name = "About"
+url = "/about"
+weight = 1
+
+
