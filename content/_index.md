@@ -27,7 +27,7 @@ template = "homepage.html"
 
 # Explore
 
-- [Projects page](@/projects/_index.md)
+- [Posts](@/posts/_index.md)
 
 
 
