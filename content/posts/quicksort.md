@@ -48,7 +48,7 @@ Let's say we have an array of numbers like `[4, 1, 3, 5, 2]` and we need to sort
 
 ## Another visual example
 
-<img src="https://i0.wp.com/techiedelight.com/wp-content/uploads/Quicksort.png?w=640&ssl=1" alt="another example" style="background-color: #f8f9fa; padding: 1rem; border-radius: 3px; width: 100%; max-width: 600px; display: block; margin: 0 auto;"/>
+<img src="https://i0.wp.com/techiedelight.com/wp-content/uploads/Quicksort.png?w=640&ssl=1" alt="another example" style="background-color: #f8f9fa; padding: 1rem; border-radius: 3px; width: 80%; max-width: 600px; display: block; margin: 0 auto;"/>
 <p style="text-align: center;">Source: https://www.techiedelight.com/es/quicksort</p>
 
 ## Implementation in Zig
